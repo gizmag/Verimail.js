@@ -1,0 +1,5 @@
+{
+  "name": "Verimail.js",
+  "homepage": "https://github.com/amail/Verimail.js",
+  "main": "./src/verimail.js"
+}
